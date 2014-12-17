@@ -5,3 +5,11 @@ body {
 .item:hover {
   font-weight: bold
 }
+
+.summary {
+  height: 200px;
+  width: 400px;
+  background-color: linen;
+  text-align: center;
+  padding-top: 30px;
+}
